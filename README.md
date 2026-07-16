@@ -115,5 +115,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👤 Author
 
-Built by [Your Name] — Electronics Engineering Student
-Feel free to connect on [LinkedIn](#) or check out more projects on [GitHub](#).
+Built by Anand Raj — Electronics Engineering Student
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/anand-raj-17b397319?utm_source=share_via&utm_content=profile&utm_medium=member_android) or check out more projects on [Instagram](https://www.instagram.com/core.electro?igsh=MWcwaWU0Z2ozY2tseA==).
