@@ -1,0 +1,18 @@
+# Arduino IDE
+*.hex
+*.elf
+*.bin
+build/
+.pio/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+
+# Sensitive info (if you separate credentials into a config file later)
+secrets.h
+config.h
